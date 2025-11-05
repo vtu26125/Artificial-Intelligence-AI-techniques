@@ -1,6 +1,6 @@
 # Artificial-Intelligence-AI-techniques
 
-This repository contains all the **AIT Lab Programs (Tasks 1–10)** implemented using **Python** as per the **VTU 8th Semester (CSE)** syllabus.
+This repository contains all the **AIT Lab Programs (Tasks 1–10)** implemented using **Python** as per the **VTU 5th Semester (CSE)** syllabus.
 Each task demonstrates the application of various **AI algorithms and problem-solving strategies** such as search algorithms, optimization techniques, and knowledge representation.
 
 ---
